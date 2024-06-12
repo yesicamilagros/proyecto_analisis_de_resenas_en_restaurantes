@@ -6,7 +6,9 @@ La calidad en el servicio de un restaurante es una parte fundamental para alcanz
 
 las reseñas no son las unicas que puedan determinar el grado de exito de un negocio , existen otras situaciones que pueden definir el nivel ,La forma más común de evaluar si una estrategia está dando sus resultados es definir indicadores de éxito o KPIs antes de implementar la iniciativa.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomputerhoy.com%2Finternet%2Fgoogle-maps-culinario-buscar-restaurante-bueno-bonito-barato-1329634&psig=AOvVaw3PkPkNj1b3reCmJMjXQiA6&ust=1718269774162000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjMkvbb1YYDFQAAAAAdAAAAABAE
+
+
+![Descripción de la imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomputerhoy.com%2Finternet%2Fgoogle-maps-culinario-buscar-restaurante-bueno-bonito-barato-1329634&psig=AOvVaw3PkPkNj1b3reCmJMjXQiA6&ust=1718269774162000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjMkvbb1YYDFQAAAAAdAAAAABAE)
 
 ## KPIs y metricas
 
