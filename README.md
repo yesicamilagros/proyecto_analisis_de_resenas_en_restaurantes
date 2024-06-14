@@ -19,6 +19,10 @@ las reseñas no son las unicas que puedan determinar el grado de exito de un neg
 [Screen Recording - Made with FlexClip.webm](https://github.com/yesicamilagros/proyecto_analisis_de_resenas_en_restaurantes/assets/102852467/c65cd0f9-c28c-43ef-9a53-16b647637add)
 
 
+# dashboard
+
+[dash](https://app.powerbi.com/view?r=eyJrIjoiMWVjYTMwNWYtMjY0NS00NTdiLTlmMWUtOTkyNzk5ODRmMzA0IiwidCI6IjFmODEwNTkyLTJiMTAtNGQyZi05ZDFkLWNhMzFiMjY5MTVkZSIsImMiOjR9)
+
 ## KPIs y metricas
 
 1- **Grado de satisfacción de los clientes o NPS (Net Promoter Score)** : se trata de una de las métricas más comunes para medir la fidelización y satisfacción del cliente (también denominada puntuación de satisfacción del cliente). Es un valor numérico que responde a la pregunta “¿Qué probabilidades hay de que recomienden [tu producto o servicio] a otros?” Puedes calcular el NPS restando el porcentaje de personas encuestadas que votaron entre 0 y 6 del porcentaje de personas que votaron entre 9 y 10. 
