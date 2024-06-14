@@ -35,9 +35,17 @@ las reseñas no son las unicas que puedan determinar el grado de exito de un neg
 
 4- **Comentarios de clientes**: si bien no es una medida cuantitativa, los comentarios de los clientes pueden ser extremadamente valiosos para una empresa y pueden usarse para crear testimonios y estrategias de marketing. Los equipos son los que interactúan y entregan una experiencia a cada cliente y cuanto mejor sea esa experiencia, más tiempo seguirán siendo tus clientes.
 
-##participantes
--yesica leon 
+
 
 
 ![Captura de pantalla_12-6-2024_42438_mug-it org ar](https://github.com/yesicamilagros/proyecto_analisis_de_resenas_en_restaurantes/assets/102852467/6eef5f53-10b5-4e61-a983-a2576fbd6ede)
 
+## stack tecnologico
+- pyspark,matplotlib , plotly ,pandas, pyspark , power bi, otros
+## concluciones
+se ha concluido que entre el analisis de sentimiento  , se ha visto un alto porcentaje de comentarios neutrales respecto a reseñas negativas o positivas , no se tiene definido una comentario puntual . 
+
+ademas en la lista de restaurantes que mayor reseñas se ha conseguido eesta en mcdonals seguido de subway .
+y el estado con mas usuarios se encuentra la florida 
+##participantes
+-yesica leon 
