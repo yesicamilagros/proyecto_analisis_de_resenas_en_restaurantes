@@ -19,9 +19,11 @@ las reseñas no son las unicas que puedan determinar el grado de exito de un neg
 [Screen Recording - Made with FlexClip.webm](https://github.com/yesicamilagros/proyecto_analisis_de_resenas_en_restaurantes/assets/102852467/c65cd0f9-c28c-43ef-9a53-16b647637add)
 
 
+[notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6085809078733314/2777629929938190/864889964872640/latest.html)
+
 # dashboard
 
-[dash](https://app.powerbi.com/view?r=eyJrIjoiMWVjYTMwNWYtMjY0NS00NTdiLTlmMWUtOTkyNzk5ODRmMzA0IiwidCI6IjFmODEwNTkyLTJiMTAtNGQyZi05ZDFkLWNhMzFiMjY5MTVkZSIsImMiOjR9)
+[dashboard ](https://app.powerbi.com/view?r=eyJrIjoiMWVjYTMwNWYtMjY0NS00NTdiLTlmMWUtOTkyNzk5ODRmMzA0IiwidCI6IjFmODEwNTkyLTJiMTAtNGQyZi05ZDFkLWNhMzFiMjY5MTVkZSIsImMiOjR9)
 
 ## KPIs y metricas
 
