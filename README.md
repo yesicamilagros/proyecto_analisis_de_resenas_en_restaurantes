@@ -13,6 +13,11 @@ las reseñas no son las unicas que puedan determinar el grado de exito de un neg
 ![Captura de pantalla_12-6-2024_4222_revistapesquisa fapesp br](https://github.com/yesicamilagros/proyecto_analisis_de_resenas_en_restaurantes/assets/102852467/f6dcd1a3-7b19-4554-9939-3e6481740a03)
 
 
+## preprocesamiento ,ETL , y exploracion de los datos
+
+
+[Screen Recording - Made with FlexClip.webm](https://github.com/yesicamilagros/proyecto_analisis_de_resenas_en_restaurantes/assets/102852467/c65cd0f9-c28c-43ef-9a53-16b647637add)
+
 
 ## KPIs y metricas
 
